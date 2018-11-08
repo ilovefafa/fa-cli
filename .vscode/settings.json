@@ -1,0 +1,16 @@
+{
+  "typescript.validate.enable": true,
+  // 不搜索打包文件
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "bin": true,
+    "dist": true,
+  },
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  // 引用
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.implementationsCodeLens.enabled": true,
+  // 自动保存
+  "tslint.autoFixOnSave": true,
+}
