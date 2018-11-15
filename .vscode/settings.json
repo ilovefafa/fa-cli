@@ -13,4 +13,8 @@
   "typescript.implementationsCodeLens.enabled": true,
   // 自动保存
   "tslint.autoFixOnSave": true,
+  // vue
+  "vetur.validation.template": false,
+  "vetur.format.defaultFormatter.js": "none",
+  "vetur.format.defaultFormatter.scss": "none",
 }

@@ -13,9 +13,10 @@
         "${workspaceFolder}/bin/**/*.js"
       ],
       "args": [
-        "--cheese",
-        "haha"
+        "-k",
+        "fafa"
       ],
+      "cwd": "${workspaceFolder}/test"
     },
   ]
 }
